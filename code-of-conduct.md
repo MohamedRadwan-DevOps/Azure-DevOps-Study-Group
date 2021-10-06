@@ -22,7 +22,6 @@
 - [I registered but I didn't get an invitation?](#i-registered-but-i-didnt-get-an-invitation)
 - [If I can't join the live session, can I still watch it?](#if-i-cant-join-the-live-session-can-i-still-watch-it)
 - [If I can't join the live session or either the live broadcast, is there any video record for the event?](#if-i-cant-join-the-live-session-on-ms-teams-either-the-live-broadcast-on-youtube-is-there-any-video-record-for-the-event)
-- [Where can I find the video record for old sessions?](#where-can-i-find-the-video-record-for-old-sessions)
 - [I want to contribute but I don't know what to do?](#i-want-to-contribute-but-i-dont-know-what-to-do)
 - [What if I raised a Pull Request (PR) and it’s not accepted?](#what-if-i-raised-a-pull-request-pr-and-its-not-accepted)
 - [What is needed to contributor to the community?](#what-is-needed-to-contributor-to-the-community)
@@ -64,7 +63,11 @@ You just need to do the following:
 1. Watch the recording for the previous sessions on YouTube.
 
 ## Where or how can I register?
-Only new user registers by reaching out to me on Linked-In:<br>[Linked-In](https://www.linkedin.com/in/mohamedahmedradwan/)
+Only new user registers by filling the following registration form:
+[Register for new users](https://bit.ly/3DeqqFg)
+If you have any issue in the registration, please raise an issue on the following link:
+[Raise an issue to ask a new question here](https://github.com/MohamedRadwan-DevOps/Azure-DevOps-Study-Group/issues)
+
 
 ## Do I need to register for every event/session
 No, you don't need to register for every event, once you registered for one event, you will get notification by email for all future events.
@@ -151,10 +154,8 @@ You need to learn the culture of the community, some of that as the following:
 - Community only opens the door, you have to walk through it
 
 ## Can I ask any question regarding any subject outside the session topic?
-**If you are in Group (A) session**
 
-You are only allowed to ask related questions to the discussed topics.
-Most of the questions will be at the end of the session, but you can ask a few questions during the session.
+You are only allowed to ask related questions to the discussed topics but if there is any time at the end and no related questions, you can ask any question.
 
 
 
