@@ -63,9 +63,9 @@ You just need to do the following:
 1. Watch the recording for the previous sessions on YouTube.
 
 ## Where or how can I register?
-Only new user registers by filling the following registration form:
-[Register for new users](https://bit.ly/3DeqqFg)
-If you have any issue in the registration, please raise an issue on the following link:
+Only new user registers by filling the following registration form:<br>
+[Register for new users](https://bit.ly/3DeqqFg)<br>
+If you have any issue in the registration, please raise an issue on the following link:<br>
 [Raise an issue to ask a new question here](https://github.com/MohamedRadwan-DevOps/Azure-DevOps-Study-Group/issues)
 
 
