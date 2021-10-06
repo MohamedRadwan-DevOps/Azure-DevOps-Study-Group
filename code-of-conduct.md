@@ -148,9 +148,9 @@ You need to learn the culture of the community, some of that as the following:
 - Actions vs. suggestions
 - Deep reading and attention to details
 - Do your homework first before asking for help or for more info
-- Welling to help before seeking recognition
+- Willing to help before seeking recognition
 - Quality of contribution  
-- Welling and looking for feedback even if it’s not very good :-) 
+- Willing and looking for feedback even if it’s not very good :-) 
 - Community only opens the door, you have to walk through it
 
 ## Can I ask any question regarding any subject outside the session topic?
