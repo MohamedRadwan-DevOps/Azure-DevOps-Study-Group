@@ -1,6 +1,6 @@
 # Azure DevOps Study Group
 ![Azure DevOps Study Group](/assets/pics/Azure-DevOps-Study-Group-intro.png)
-<br><br><br>
+<br><br>
 
 **Azure & DevOps Study Group** has more than 18 cloud experts contributors who will teach and share their cloud expertise with the community.
 We have several contributors and top technical leaders from the EU like UK, Spain, France, Switzerland, Slovakia. Also, from Middle East like Egypt, UAE, Qatar as well as India.
@@ -8,7 +8,7 @@ We have several contributors and top technical leaders from the EU like UK, Spai
 ![Azure DevOps Study Group Contributors-1](/assets/pics/Contributors-1.gif)
 <br><br>
 ![Azure DevOps Study Group Contributors-2](/assets/pics/Contributors-2.gif)
-<br><br><br>
+<br><br>
 
 The Study Group will provide a complete roadmap and study lessons to the cloud for all people that they would like to start their journey to the cloud and DevOps.
 
