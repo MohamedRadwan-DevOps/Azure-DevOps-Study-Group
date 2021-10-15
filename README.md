@@ -25,4 +25,5 @@ Join and subscribe here:
 [The YouTube channel](https://lnkd.in/d2ZyNRy)
 
 For how to participate, register or FAQ, please read the Code of Conduct and FAQ page here:
+<br>
 [Code of Conduct and FAQ](https://github.com/MohamedRadwan-DevOps/Azure-DevOps-Study-Group/blob/main/code-of-conduct.md)
