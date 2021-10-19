@@ -18,22 +18,22 @@ It will teach and help people to implement the best practices through different 
 
 Cloud and DevOps are some of the most emerging topics of the software industry today as it improves the whole software development and delivery lifecycle. We aim to teach the best modern engineering practices on real-world examples and demos; Also, we aim to prepare all our community members for the several Azure exams by practicing on many questions after each lesson. Also, give them the opportunity to ask any question or clear any doubt and hear more than one expert opinion.
 
-### Join the sessions or watch them live:
+### Join sessions meeting or watch them live:
 All sessions will be live on YouTube as well as hosted in Microsoft Teams. So, people can communicate directly with the experts and ask their questions or clear their doubts.
 
 
-### Watch the sessions later
+### Watch sessions later
 Also, all sessions will be recorded and will be available on YouTube for later views.  
 Join and subscribe here:  
 [The YouTube channel](https://lnkd.in/d2ZyNRy)
 
 
 ### Registration and questions
-For how to participate, register or FAQ, please read the Code of Conduct and FAQ page here:
+For how to register or FAQ (Frequently asked question), please read the Code of Conduct and FAQ page here:
 <br>
 [Code of Conduct and FAQ](https://github.com/MohamedRadwan-DevOps/Azure-DevOps-Study-Group/blob/main/code-of-conduct.md)
 
-### Participate as a speaker /contributor
+### Participation as a speaker /contributor
 For how to participate as a speaker/contributor, please fill the call for speaker form at the following link:
 <br>
 [Call for speakers](https://bit.ly/3aMwkkU)
